@@ -1,1 +1,1 @@
-# PLUGIN-JP-BETA
+# plugin
